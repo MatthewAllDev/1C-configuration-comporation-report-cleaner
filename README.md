@@ -24,7 +24,7 @@ python example.py
 If you have suggestions for improvement or found a bug, create an issue in the repository or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 License.
 
 ---
 
@@ -54,5 +54,5 @@ python example.py
 Если у вас есть предложения по улучшению или вы нашли ошибку, создайте issue в репозитории или отправьте pull request.
 
 ## Лицензия
-Этот проект распространяется под лицензией MIT.
+Этот проект распространяется под лицензией GPL-3.0.
 
